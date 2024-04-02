@@ -1,1 +1,1 @@
-Парсер для озон на основе Scrapy+Selenium
+Парсер для divan-boss, ozon на основе Scrapy+Selenium
